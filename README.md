@@ -1,1 +1,1 @@
-# Top-10
+Here is a small project with a data set that I found on kaggle seeing if the top 10 artist would be the same on both platforms conclusion came to that it would be a different top 10 for every platform that you use. I also did a little bit of data visualization on Tableau here isthe link if you would like to see that. https://public.tableau.com/app/profile/angel.ramos6331/viz/WhosReallyInThetop10SpotifyandYoutube/Dashboard1
